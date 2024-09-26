@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h3 align="center">Aspiring Data Scientist with a passion for AI/ML</h3>
 
-<img align="right" alt="coding" width="400" src="C:\Users\surya\OneDrive\Desktop\92f5741d433d71dc6c7d903e648911ad.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/92/f5/74/92f5741d433d71dc6c7d903e648911ad.gif">
+
+
+- 🌱Balancing Tech with Heart **Supporting children's education through the Muskurahat Foundation**
 
 - 📫 How to reach me **k05541372@gmail.com**
+
+- ⚡ Fun fact **Part-Time Life's Puzzle Solver**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,19 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi9354&show_icons=true&locale=en" alt="khushi9354" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi9354&" alt="khushi9354" /></p>## Hi there 👋
-
-<!--
-**Khushi9354/Khushi9354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi9354&" alt="khushi9354" /></p>
